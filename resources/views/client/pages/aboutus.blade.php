@@ -5,7 +5,8 @@
                 <div class="section-title wow fadeInUp">
                     <span class="title-bg">Summer</span>
                     <h1>{{ $aboutus->title }}</h1>
-                    <p>{{ $aboutus->desc}} <p>
+                    <p>{{ $aboutus->desc }}
+                    <p>
                 </div>
             </div>
         </div>
@@ -14,7 +15,8 @@
                 <!-- Video -->
                 <div class="about-video">
                     <div class="single-video overlay">
-                        <a href="https://www.youtube.com/watch?v=E-2ocmhF6TA" class="video-popup mfp-fade"><i class="fa fa-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=E-2ocmhF6TA" class="video-popup mfp-fade"><i
+                                class="fa fa-play"></i></a>
                         <img src="images/gallery-4.jpg" alt="#">
                     </div>
                 </div>
@@ -24,9 +26,16 @@
                 <!-- About Content -->
                 <div class="about-content">
                     <h2>We are professional website design & development company!</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.  You think water moves fast? You should see ice.</p>
-                    <p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a weeked do incididunt magna Lorem</p>
-                    <p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalancip isicing elit, sed do eiusmod tempor incididunt</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                        exercitation. You think water moves fast? You should see ice.</p>
+                    <p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it
+                        killed the world once and got a taste for murder. After the avalanche, it took us a weeked do
+                        incididunt magna Lorem</p>
+                    <p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it
+                        killed the world once and got a taste for murder. After the avalancip isicing elit, sed do
+                        eiusmod tempor incididunt</p>
                 </div>
                 <!--/ End About Content -->
             </div>
@@ -40,7 +49,9 @@
                             <div class="single-progress">
                                 <h4>Communication</h4>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 78%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="percent">78%</span></div>
+                                    <div class="progress-bar" role="progressbar" style="width: 78%" aria-valuenow="25"
+                                        aria-valuemin="0" aria-valuemax="100"><span class="percent">78%</span>
+                                    </div>
                                 </div>
                             </div>
                             <!--/ End Single Skill -->
@@ -50,7 +61,9 @@
                             <div class="single-progress">
                                 <h4>Business Develop</h4>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="percent">80%</span></div>
+                                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="25"
+                                        aria-valuemin="0" aria-valuemax="100"><span class="percent">80%</span>
+                                    </div>
                                 </div>
                             </div>
                             <!--/ End Single Skill -->
@@ -60,7 +73,9 @@
                             <div class="single-progress">
                                 <h4>Creative Work</h4>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="percent">90%</span></div>
+                                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="25"
+                                        aria-valuemin="0" aria-valuemax="100"><span class="percent">90%</span>
+                                    </div>
                                 </div>
                             </div>
                             <!--/ End Single Skill -->
@@ -70,7 +85,9 @@
                             <div class="single-progress">
                                 <h4>Bootstrap 4</h4>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="percent">95%</span></div>
+                                    <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="25"
+                                        aria-valuemin="0" aria-valuemax="100"><span class="percent">95%</span>
+                                    </div>
                                 </div>
                             </div>
                             <!--/ End Single Skill -->

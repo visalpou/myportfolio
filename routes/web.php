@@ -22,3 +22,4 @@ use App\Http\Controllers\HomeController;
 Route::get('/', [HomeController::class, 'index']);
 Route::get('aboutus', [AdminPortfolioController::class, 'index']);
 Route::get('service', [AdminPortfolioController::class, 'index']);
+Route::get('news', [AdminPortfolioController::class, 'index']);

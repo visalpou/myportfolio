@@ -1914,6 +1914,8 @@ Version: 1.0
 .blogs-main .blog-head img {
 	display: block;
 	width: 100%;
+	height: 200px;
+	object-fit: cover;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;

@@ -40,7 +40,7 @@
                             <div class="icon"><i class="fa fa-dollar"></i></div>
                             <div class="counter">
                                 <p><span class="count">10</span>M</p>
-                                <h4>Total Earnings</h4>
+                                <h4>Total Earnings</h4>                              
                             </div>
                         </div>
                         <!--/ End Single Fact -->
